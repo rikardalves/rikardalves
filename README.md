@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @rikardalves
+- 🌱 I’m currently learning html 5 and css 3
+- 📫 How to reach me ...
